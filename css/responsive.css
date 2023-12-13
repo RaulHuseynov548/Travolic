@@ -1,0 +1,458 @@
+@media (min-width : 1400px) {
+    .Nav_div_icon_right_flex i {
+        display: none;
+     }
+
+}
+@media (max-width : 1400px) {
+    .Nav_div_icon_right_flex i {
+        display: none;
+        
+     }
+     .all_app img {
+      left: 10%;
+     }
+     .service_Lorem_ipsum_right_way_flex img  {
+      max-width: 750px;
+     }
+     
+}
+
+@media (max-width : 1200px) {
+    .Nav_div_icon_right_flex i {
+        display: none;
+     }
+     .Home_Man_Using_laptop_left_way_width {
+        width: 100%;
+     }
+     .Home_Man_Using_laptop_right_way_width {
+        width: 100%;
+     }
+     .container  {
+        max-width: 1140px;
+     }
+     .Home_Man_Using_laptop_top_padding {
+        padding: 100px 0px;
+     }
+     .about_left_width {
+      width: 100%;
+     }
+     .about_right_width {
+      width: 100%;
+     }
+     .about_foto_bottom_left_width {
+      width: 100%;
+     }
+     .about_foto_bottom_right_width {
+      width: 100%;
+     }
+     .about_foto_bottom_right_flex {
+      justify-content: center;
+     }
+     .about_foto_bottom_all_flex {
+      gap: 22px;
+     }
+     .about_foto_bottom_padding {
+      padding-bottom: 120px;
+     }
+     .about_us_lorem_right_way_width {
+      width: 100%;
+     }
+     .about_us_lorem_left_way_width {
+      width: 100%;
+     }
+     .about_us_lorem_all_padding {
+      padding-top: 100px;
+     }
+     .about_us_lorem_all_flex {
+      gap: 30px;
+     }
+     .padding-bottom {
+      padding-bottom: 100px;
+     }
+     .about_us_container {
+      max-width: 955px;
+     }
+     .service_Lorem_ipsum_right_way_width {
+      width: 100%;
+     }
+     .all_app img {
+      max-width: 800px;
+      height: 300px;
+      top: 76%;
+      left: 16%;
+
+     }
+     .service_Lorem_ipsum_left_way_width {
+      width: 100%;
+     }
+     .services_container {
+      max-width: 920px;
+     } 
+     .special_container {
+      max-width: 920px;
+     }
+
+
+
+}
+
+@media (max-width : 991px) {
+ 
+    .Nav_div_icon_right_flex i {
+        display: block;
+     }
+     .Nav_div_icon_mid_flex li a {
+        display: none;
+
+     }
+     .Nav_div_icon_right_flex a {
+        display: none;
+
+     }
+     .Nav_div_icon_right_flex i {
+        font-size: 32px;
+     }
+     .Lorem_Ipsum_middle_section_right_way_width {
+        width: 100%;
+     }
+     .Lorem_Ipsum_middle_section_left_way_width {
+        width: 100%;
+     }
+     .container  {
+        max-width:780px;
+   
+    }
+    .all_application_width  {
+        width: 90%;
+    }
+    .all_application_flex {
+      gap: 20px;
+    }
+    .second_circle {
+      flex-direction: column-reverse;
+    }
+    .Lorem_Ipsum_bottom_boxs_left_way_width {
+      width: 100%;
+    }
+    .right_way_width {
+      width: 100%;
+    }
+    .Lorem_Ipsum_bottom_boxs_padding {
+      padding-left: 100px;
+      padding-right: 100px;
+      padding-top: 100px;
+      padding-bottom: 100px;
+    }
+    .Home_Man_Using_laptop_right_way_img {
+      max-width: 420px;
+      height: 500px;
+    }
+    
+    .Lorem_Ipsum_bottom_boxs_all_flex {
+      gap: 20px;
+    }
+    .footer_contact_width {
+      width: 44%;
+    }
+    .footer_contact_all_flex {
+      gap: 20px;
+    }
+    .service_Lorem_ipsum_right_way_flex img {
+      max-width: 739px;
+      height: 350px;
+      width: 100%;
+
+
+    }
+    .service_Lorem_ipsum_left_way_width {
+      width: 100%;
+    }
+    .all_app img {
+      left: 11%;
+    }
+    .Services_latest_projects_width {
+      width: 36%;
+    } 
+
+   }
+
+@media (max-width : 767px) {
+   .container {
+      max-width: 550px;
+
+   }
+   .contact_us_first_section_width{
+      width: 100%;
+   }
+   .contact_us_first_section_right_width {
+      width: 100%;
+   }
+   .contact_us_second_section_width {
+      width: 100%;
+   }
+   .Services_latest_projects_width {
+      width: 48%;
+   }
+   .Services_latest_projects_flex {
+      gap: 0px;
+   }
+   .Services_latest_projects_top_padding  {
+      padding-top: 20px;
+      padding-bottom: 20px;
+   }
+   .all_app img {
+      left: 10%;
+      top: 66%;
+      max-width: 630px;
+      height: 200px;
+    }
+   .about_us_container {
+      max-width: 610px;
+   }
+   .about_us_lorem_right_way_foto {
+      max-width: 240px;
+      height: 70px;
+   }
+   .Lorem_Ipsum_bottom_boxs_padding {
+      padding: 0px;
+   }
+   .Company_padding {
+      padding: 50px 0px;
+   }
+   .Lorem_ipsum_simply_padding {
+      padding: 70px 0px;
+   }
+   .footer_contact_all_padding {
+      padding-top: 20px;
+      padding-left: 0px;
+      padding-right: 0px;
+      padding-bottom: 20px;
+   }
+   .about_us_lorem_all_padding {
+      padding-bottom: 100px
+   }
+   .about_us_lorem_right_way_div {
+      height: 264px;
+   }
+   .footer_contact_width {
+      width: 40%;
+   }
+
+   .socail_media_flex {
+      align-items: flex-start;
+      justify-content: flex-start;
+      height: 0%;
+   }
+   .footer_second_about_us {
+      align-items: flex-start;
+   }
+    }
+
+
+@media (max-width : 574px) {
+   .contact_all_width {
+      width: 45%;
+   }
+   .all_app img {
+      max-width: 363px;
+      height: 124px;
+      left: 10%;
+      top: 66%;
+   }
+   .Contact_background_color_second_padding  {
+      padding-bottom: 50px;
+   }
+   
+   .About_us_top_foto_flex {
+      flex-direction: column;
+   }
+   .service_Lorem_ipsum_padding {
+      padding-top: 30px;
+      padding-bottom: 0px;
+   }
+   .contact_us_first_section_left_first_p {
+      font-size: 30px;
+   }
+   .get_in_touch_padding {
+      padding-top: 16px;
+      padding-bottom: 36px;
+   }
+
+   .footer_contact_width {
+      width: 100%;
+   }
+   .about_us_lorem_right_way_foto {
+      max-width: 160px;
+      height: 46px;
+   }
+   .about_foto_bottom_padding {
+      padding-bottom: 60px;
+   }
+   .About_us_second_section_first_p {
+      font-size: 27px;
+   }
+   .About_us_second_section {
+      gap:8px
+   }
+   .about_us_lorem_all_padding {
+      padding-bottom: 30px;
+      padding-top: 30px;
+   }
+   .about_all_flex{
+      flex-direction: column-reverse;
+      gap: 20px;
+   }
+  
+
+.container {
+   max-width: 420px;
+}
+
+}
+@media (max-width : 375px) {
+   .container {
+      max-width: 300px;
+   }
+   .Lorem_Ipsum_middle_section_left_way_flex img {
+      max-width: 380px;
+
+}
+.contact_two_flex {
+   flex-direction: column;
+}
+.Services_latest_projects_width {
+   width: 90%;
+}
+.contact_all_width {
+   width: 100%;
+}
+.all_app img {
+   max-width: 314px;
+   height: 116px;
+   left: 10%;
+   top: 71%;
+   
+}
+.Home_Experienced {
+   font-size: 18px;
+}
+.Home_Experienced span {
+   font-size: 18px;
+}
+.Home_Kodex_texnology {
+   font-size: 12px;
+} 
+.Home_contact_us {
+   padding: 13px 30px;
+   font-size: 10px;
+}
+.Home_view_more  {
+   padding: 13px 30px;
+   font-size: 10px;
+}
+.Home_Man_Using_laptop_right_way_img {
+   max-width: 250px;
+   width: 100%;
+   height: 250px;
+} 
+.Lorem_ipsum_middle_h{
+   font-size: 20px;
+}
+.Lorem_Ipsum_header_padding {
+   padding: 25px 0px;
+}
+.Lorem_Ipsum_middle_section_left_way_p {
+   font-size: 20px;
+}
+.Lorem_Ipsum_middle_section_left_way_p span {
+   font-size: 20px;
+}
+.Lorem_Ipsum_middle_section_left_way_about {
+   font-size: 12px;
+}
+.Lorem_Ipsum_header_flex {
+   gap: 18px;
+} 
+.Lorem_Ipsum_middle_section_right_img_flex img {
+   height: 250px;
+}
+.boxs_left_way_h2 {
+   font-size: 20px;
+}
+.boxs_left_way_p {
+   font-size: 12px;
+}
+.form_flex {
+   flex-direction: column;
+}
+.Lorem_ipsum_simply_p p {
+   font-size: 20px;
+   padding-bottom: 20px;
+}
+.form_flex button {
+   padding: 8px 12px;
+   font-size: 12px;
+}
+.Lorem_Ipsum_bottom_boxs_left_way_flex  {
+   padding-top:20px;
+   gap: 0px;
+}
+.Home_Man_Using_laptop_top_padding {
+   padding: 20px 0px;
+}
+.Lorem_Ipsum_bottom_boxs_left_way_box_color {
+   height: 300px;
+   max-width: 300px;
+}
+.boxs_left_way_view_more  {
+   padding: 7px 27px;
+   font-size: 12px;
+}
+.about_all_flex_padding {
+   padding-top: 20px;
+}
+.About_us_lorem {
+   font-size: 20px;
+}
+.about_foto_bottom_img {
+   height: 189px;
+}
+.about_us_lorem_right_way_div {
+   height: 165px;
+}
+.about_us_lorem_right_way_foto {
+   max-width: 132px;
+   height: 30px;
+}
+.about_us_lorem_left_first_a {
+   padding: 9px 10px;
+}
+.about_us_lorem_left_first_p {
+   font-size: 18px;
+}
+.about_us_lorem_left_second_p {
+   font-size: 14px;
+}
+.about_us_lorem_left_first_a {
+   font-size: 12px;
+}
+.About_us_second_section_second_p {
+   font-size: 12px;
+}
+.About_us_second_section_first_p{
+   font-size: 20px;
+}
+
+
+
+
+
+
+
+
+}
+
+
+
+
